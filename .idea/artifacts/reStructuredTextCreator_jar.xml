@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="reStructuredTextCreator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/reStructuredTextCreator_jar</output-path>
+    <root id="archive" name="reStructuredTextCreator.jar">
+      <element id="directory" name="jar" />
+      <element id="artifact" artifact-name="reStructuredTextCreator" />
+    </root>
+  </artifact>
+</component>
